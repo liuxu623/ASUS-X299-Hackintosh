@@ -59,7 +59,7 @@ If you look in your IOReg the Thunderbolt device tree should look like this.
 
 2. For hot-plug support, you will need a Thunderbolt hot-plug SSDT and a DTPG SSDT.  
 * Download kgp's SSDT that I modified for OpenCore located [here](https://github.com/shinoki7/ASUS-X299-Hackintosh/blob/main/SSDTs/SSDT-TB3HP.aml)
-* If you don't have a DTPG SSDT or SSDT-SBUS-MCHC SSDT, you can download it [here](https://github.com/shinoki7/ASUS-X299-Hackintosh/blob/main/SSDTs/SSDT-SBUS-MCHC.aml).
+* If you don't have a DTPG, SSDT-SBUS-MCHC, or X299-BASE SSDT, you can download it [here](https://github.com/shinoki7/ASUS-X299-Hackintosh/blob/main/SSDTs/SSDT-SBUS-MCHC.aml).
 * Add these SSDTs to your EFI folder under `OC-ACPI` and the appropriate entries in your config.plist under `ACPI-Add`.  It is preferred to add `SSDT-TB3HP.aml` at the very bottom since it relies on method DTGP.  
 3.  Reboot your computer and you should have hot plug support!
   * System Report showing two new devices
@@ -94,7 +94,7 @@ Switching from Standard to Extended is optional, but it brings your system more 
 ### 2. Configuration
 Once you have successfully flashed a custom firmware file following the guide, you should see the Thunderbolt Bus pane populated under `System Report-Thunderbolt/USB4`.
 In order to have hot plug support, follow this guide by CaseySJ and Inqnuam [Using HackinDROM to Create Thunderbolt SSDT with Custom DROM](https://www.tonymacx86.com/threads/success-gigabyte-designare-z390-thunderbolt-3-i7-9700k-amd-rx-580.267551/post-2186155).
-  * Note that SSDT-DTPG.aml is not needed if you already have SSDT-SBUS-MCHC.aml.
+  * Note that SSDT-DTPG.aml is not needed if you already have SSDT-SBUS-MCHC.aml or X299-BASE.aml.
 
 Once you reboot, you should have the Thunderbolt Bus pane properly populated and hot plug support!
   * System Report showing two new devices

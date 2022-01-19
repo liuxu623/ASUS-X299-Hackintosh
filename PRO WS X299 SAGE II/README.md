@@ -7,7 +7,7 @@
 
 | Component        | Model                                | Notes |
 | ---------------- | ---------------------------------------|-------------------|
-| Motherboard | ASUS Pro WS X299 Sage II | |
+| Motherboard | ASUS Pro WS X299 Sage II | BIOS 0901 due to Thunderbolt issues on newer BIOS revisions |
 | Processor | Intel i9-10980XE | |
 | CPU Cooler | Fractal Design Celsius+ S36 Dynamic | |
 | RAM | 4x16 Corsair Vengeance LPX 3200 Mhz | |
@@ -18,24 +18,24 @@
 | Case | Lian Li PC 011 Dynamic | |
 
 ### PCIe Slot Layout
-| Slot | Speed | Device | Notes |
-| ----- | ----- | ---------------------------------------|-------------------|
-| 1 | x16 | | |
-| 2 | x8 | Gigabyte GC-Titan Ridge V2.0 | |
-| 3 | x8 | | |
-| 4 | x8 | | |
-| 5 | x8 | AMD Radeon Pro W5500 | |
-| 6 | x8 | Intel X550-T2 10G Ethernet Card | |
-| 7 | x8 | | |
+| Slot | PCIe Gen | Speed | Device | Notes |
+| ----- | ----- |----- | ---------------------------------------|-------------------|
+| 1 | 3 | x16 | | |
+| 2 | 3 | x4 | Gigabyte GC-Titan Ridge V2.0 | Thunderbolt settings enabled in BIOS |
+| 3 | 3 | x8 | | |
+| 4 | 3 | x8 | | |
+| 5 | 3 | x8 | AMD Radeon Pro W5500 | |
+| 6 | 3 | x8 | Intel X550-T2 10G Ethernet Card | |
+| 7 | 3 | x8 | | |
 
 ### M.2/U.2 Layout
-| Slot | Device | Notes |
-| ----- | ---------------------------------------|-------------------|
-| U.2_1 | | |
-| U.2_2 | | |
-| U.2_3 | | |
-| M.2_1 | Broadcom BCM943602CDP | Using [M.2 NGFF Adapter](https://www.amazon.com/gp/product/B07R3XVD54/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1) |
-| M.2_2 | Sabrent Rocket 1 TB | |
+| Slot | PCIe Gen | Device | Notes |
+| ----- | ----- | ---------------------------------------|-------------------|
+| U.2_1 | 3 | | |
+| U.2_2 | 3 | | |
+| U.2_3 | 3 | | |
+| M.2_1 | 3 | Broadcom BCM943602CDP | Using [M.2 NGFF Adapter](https://www.amazon.com/gp/product/B07R3XVD54/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1) |
+| M.2_2 | 3 | Sabrent Rocket 1 TB | |
 
 ## What Works / What Doesn't Work
 - [x] Sleep / Wake
