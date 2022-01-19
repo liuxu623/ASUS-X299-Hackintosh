@@ -1,6 +1,6 @@
-# PRO WS X299 SAGE II
+# Pro WS X299 Sage II
 
-![](/PRO%20WS%20X299%20SAGE%20II/Images/ProWSX299SageII.png)
+![](/Pro%20WS%20X299%20Sage%20II/Images/ProWSX299SageII.png)
 
 ## Specifications
 ### Components
@@ -62,30 +62,30 @@
 ## Screenshots
 
 ### System Report
-![](/PRO%20WS%20X299%20SAGE%20II/Images/aboutthismac.png)
-![](/PRO%20WS%20X299%20SAGE%20II/Images/overview.png)
+![](/Pro%20WS%20X299%20Sage%20II/Images/aboutthismac.png)
+![](/Pro%20WS%20X299%20Sage%20II/Images/overview.png)
 
 ### Memory
-![](/PRO%20WS%20X299%20SAGE%20II/Images/memory1.png)
-![](/PRO%20WS%20X299%20SAGE%20II/Images/memory2.png)
+![](/Pro%20WS%20X299%20Sage%20II/Images/memory1.png)
+![](/Pro%20WS%20X299%20Sage%20II/Images/memory2.png)
 
 ### Audio
-![](/PRO%20WS%20X299%20SAGE%20II/Images/audio.png)
+![](/Pro%20WS%20X299%20Sage%20II/Images/audio.png)
 
 ### Ethernet
-![](/PRO%20WS%20X299%20SAGE%20II/Images/ethernet.png)
+![](/Pro%20WS%20X299%20Sage%20II/Images/ethernet.png)
 
 ### GPU
-![](/PRO%20WS%20X299%20SAGE%20II/Images/graphics.png)
+![](/Pro%20WS%20X299%20Sage%20II/Images/graphics.png)
 
 ### NVME
-![](/PRO%20WS%20X299%20SAGE%20II/Images/NVMExpress.png)
+![](/Pro%20WS%20X299%20Sage%20II/Images/NVMExpress.png)
 
 ### USB
-![](/PRO%20WS%20X299%20SAGE%20II/Images/usb.png)
+![](/Pro%20WS%20X299%20Sage%20II/Images/usb.png)
 
 ### PCI
-![](/PRO%20WS%20X299%20SAGE%20II/Images/pci.png)
+![](/Pro%20WS%20X299%20Sage%20II/Images/pci.png)
 
 ### Thunderbolt
-![](/PRO%20WS%20X299%20SAGE%20II/Images/tbbus.png)
+![](/Pro%20WS%20X299%20Sage%20II/Images/tbbus.png)

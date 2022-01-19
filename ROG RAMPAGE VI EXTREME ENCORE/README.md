@@ -1,6 +1,6 @@
-# ROG RAMPAGE VI EXTREME ENCORE
+# ROG Rampage VI Extreme Encore
 
-![](/ROG%20RAMPAGE%20VI%20EXTREME%20ENCORE/Images/ROGRampageVIExtremeEncore.png)
+![](/ROG%20Rampage%20VI%20Extreme%20Encore/Images/ROGRampageVIExtremeEncore.png)
 
 ## Specifications
 ### Components
@@ -58,33 +58,33 @@
 ## Screenshots
 
 ### System Report
-![](/ROG%20RAMPAGE%20VI%20EXTREME%20ENCORE/Images/aboutthismac.png)
-![](/ROG%20RAMPAGE%20VI%20EXTREME%20ENCORE/Images/overview.png)
+![](/ROG%20Rampage%20VI%20Extreme%20Encore/Images/aboutthismac.png)
+![](/ROG%20Rampage%20VI%20Extreme%20Encore/Images/overview.png)
 
 ### Memory
-![](/ROG%20RAMPAGE%20VI%20EXTREME%20ENCORE/Images/memory1.png)
-![](/ROG%20RAMPAGE%20VI%20EXTREME%20ENCORE/Images/memory2.png)
+![](/ROG%20Rampage%20VI%20Extreme%20Encore/Images/memory1.png)
+![](/ROG%20Rampage%20VI%20Extreme%20Encore/Images/memory2.png)
 
 ### Audio
-![](/ROG%20RAMPAGE%20VI%20EXTREME%20ENCORE/Images/audio.png)
+![](/ROG%20Rampage%20VI%20Extreme%20Encore/Images/audio.png)
 
 ### Ethernet
-![](/ROG%20RAMPAGE%20VI%20EXTREME%20ENCORE/Images/ethernet.png)
+![](/ROG%20Rampage%20VI%20Extreme%20Encore/Images/ethernet.png)
 
 ### GPU
-![](/ROG%20RAMPAGE%20VI%20EXTREME%20ENCORE/Images/graphics.png)
+![](/ROG%20Rampage%20VI%20Extreme%20Encore/Images/graphics.png)
 
 ### NVME
-![](/ROG%20RAMPAGE%20VI%20EXTREME%20ENCORE/Images/NVMExpress.png)
+![](/ROG%20Rampage%20VI%20Extreme%20Encore/Images/NVMExpress.png)
 
 ### SATA
-![](/ROG%20RAMPAGE%20VI%20EXTREME%20ENCORE/Images/sata.png)
+![](/ROG%20Rampage%20VI%20Extreme%20Encore/Images/sata.png)
 
 ### USB
-![](/ROG%20RAMPAGE%20VI%20EXTREME%20ENCORE/Images/usb.png)
+![](/ROG%20Rampage%20VI%20Extreme%20Encore/Images/usb.png)
 
 ### PCI
-![](/ROG%20RAMPAGE%20VI%20EXTREME%20ENCORE/Images/pci.png)
+![](/ROG%20Rampage%20VI%20Extreme%20Encore/Images/pci.png)
 
 # Changelog:
 ## Initial EFI upload, OpenCore 0.7.7 (2022.01.14)
