@@ -10,8 +10,8 @@ The ASUS X299 Hackintosh repository contains OpenCore EFI distributions and rela
 | Custom BIOS Collection | Modified BIOS .CAP files that have custom boot logos and/or other modifications |
 | Intel 10G SmallTree | Information about configuring Intel 10G ports for macOS support |
 | Kexts | Additional kexts used in BASE-EFI |
-| PRO WS X299 SAGE II | Information about personal build using the ASUS Pro WS X299 Sage II running macOS Monterey |
-| ROG RAMPAGE VI EXTREME ENCORE | Information about personal build using the ASUS ROG Rampage VI Extreme Encore running macOS Monterey |
+| Pro WS X299 Sage II | Information about personal build using the ASUS Pro WS X299 Sage II running macOS Monterey |
+| ROG Rampage VI Extreme Encore | Information about personal build using the ASUS ROG Rampage VI Extreme Encore running macOS Monterey |
 | SSDTs | Precompiled SSDTs used in BASE-EFI |
 | Thunderbolt | Information about configuring Thunderbolt 3/4 for macOS |
 | USB Kexts | Mapped motherboard USB kexts |
